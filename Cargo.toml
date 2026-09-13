@@ -1,0 +1,11 @@
+[package]
+name = "auto-alias"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clearscreen = "4.0.6"
+colored_text = "0.5.1"
+lazy_static = "1.5.0"
+tinterm = "0.2.0"
+use = "0.0.1-pre.0"
