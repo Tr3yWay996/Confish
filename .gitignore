@@ -1,2 +1,3 @@
-/target
-/Bash\ tests
+/target/
+/Bash tests/
+/out.txt
